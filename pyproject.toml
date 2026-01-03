@@ -7,7 +7,7 @@ name = "entity-resolution-agent"
 version = "0.1.0"
 description = "Production-grade Entity Resolution Agent with Graph Neural Networks and Contextual Understanding"
 authors = [
-    {name = "Castellum.AI Team", email = "team@castellum.ai"}
+    {name = "Entity Resolution Team", email = "team@example.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
@@ -66,10 +66,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/castellum-ai/entity-resolution-agent"
+Homepage = "https://github.com/entity-resolution-agent"
 Documentation = "https://entity-resolution-agent.readthedocs.io"
-Repository = "https://github.com/castellum-ai/entity-resolution-agent"
-Issues = "https://github.com/castellum-ai/entity-resolution-agent/issues"
+Repository = "https://github.com/entity-resolution-agent"
+Issues = "https://github.com/entity-resolution-agent/issues"
 
 [tool.setuptools]
 packages = ["src.entity_resolution"]

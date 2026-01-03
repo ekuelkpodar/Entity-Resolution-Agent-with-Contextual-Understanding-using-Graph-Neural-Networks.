@@ -4,7 +4,7 @@ A production-grade entity resolution system that goes beyond traditional name ma
 
 ## 🎯 Overview
 
-This system is designed for **Castellum.AI's shelf company detection** and financial crime compliance needs, enabling:
+This system is designed for **shelf company detection** and financial crime compliance needs, enabling:
 
 - **Advanced Entity Matching**: Combines string similarity, GNN embeddings, graph patterns, and LLM reasoning
 - **Beneficial Ownership Resolution**: Traces ownership through multiple corporate layers to identify Ultimate Beneficial Owners (UBOs)
@@ -88,7 +88,7 @@ This system is designed for **Castellum.AI's shelf company detection** and finan
 
 ```bash
 # Clone repository
-git clone https://github.com/castellum-ai/entity-resolution-agent.git
+git clone https://github.com/entity-resolution-agent.git
 cd entity-resolution-agent
 
 # Create virtual environment
@@ -332,7 +332,7 @@ Trace ownership through complex structures:
 
 ## 🤝 Contributing
 
-This is a private repository for Castellum.AI. For internal contributions:
+For contributions:
 
 1. Create a feature branch
 2. Make your changes
@@ -341,13 +341,13 @@ This is a private repository for Castellum.AI. For internal contributions:
 
 ## 📝 License
 
-Copyright © 2025 Castellum.AI. All rights reserved.
+Copyright © 2025. All rights reserved.
 
 ## 🙋 Support
 
 For questions or issues:
 - Internal Slack: #entity-resolution
-- Email: team@castellum.ai
+- Email: team@example.com
 
 ## 🔮 Roadmap
 
@@ -366,7 +366,7 @@ For questions or issues:
 - [ ] Batch processing pipeline
 
 ### Phase 3 (Planned)
-- [ ] Integration with Castellum.AI platform
+- [ ] Integration with enterprise platform
 - [ ] Advanced risk scoring models
 - [ ] Automated alert generation
 - [ ] Multi-language support
@@ -393,4 +393,4 @@ For questions or issues:
 
 ---
 
-**Built with ❤️ by the Castellum.AI Team**
+**Built with ❤️ by the Entity Resolution Team**

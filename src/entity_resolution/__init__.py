@@ -6,7 +6,7 @@ for accurate entity matching and beneficial ownership identification.
 """
 
 __version__ = "0.1.0"
-__author__ = "Castellum.AI Team"
+__author__ = "Entity Resolution Team"
 
 from src.entity_resolution.core.entities import (
     Entity,
